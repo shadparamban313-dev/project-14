@@ -1,0 +1,30 @@
+body{
+    margin: 0px;
+}
+.wemg img{
+    height: 858px;
+    width: 100%;
+    position: absolute;
+}
+.typ{
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 30px;
+    color: white;
+}
+.detl{
+    display: flex;
+    gap: 50px;
+}
+
+.typ span{
+    font-size: 30px;
+}
+.sp{
+    position: relative;
+    font-size: 60px;
+    text-align: center;
+    justify-items: center;
+    color: white;
+}
